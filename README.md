@@ -4,9 +4,9 @@ Installation
 
 1.Clone the repository to your local machine:
 
-`git clone https://github.com/your-username/express-app.git`
+`git@github.com:hartko/item-management-backend.git`
 
-`cd express-app`
+`cd item-management-backend`
 
 
 2.Create a `.env` file in the root directory and add the necessary environment variables (such as the Database URL and JWT Secret Key).
